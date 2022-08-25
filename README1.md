@@ -1,4 +1,4 @@
-# hellow
+# Hello World
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   # Table of Contents
 1. [Description](#description)
@@ -10,23 +10,23 @@
 7. [Questions](#questions)
 
 ## Description 
-test
+Says hello to any and all visitors
 
 ## Installation 
-test
+from the website to your computer
 
 ## Usage 
-ljlakjsd
+to send greeetings to friends and family
 
 ## Contribution
-a;lsdkfj
+spencer
 
 ## Test
-undefined
+by each user in their commandline 
 
 ## License
 Mozilla
 
 ## Questions
-For any questions please contact me at asdf or find me on github at ;lasd
+For any questions please contact me at clarkspencerc@gmail.com or find me on github at clarkspencerc
 
