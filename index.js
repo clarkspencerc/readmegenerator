@@ -40,7 +40,7 @@ const questions = [
         name: "license",
         message: "Select your License type",
         choices: [
-            "MIT", "Mozilla", "Chrome", "Safari"
+            "MIT", "Mozilla", "Eclipse", "Zlib"
         ]
     },
     {
